@@ -42,6 +42,41 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/contact/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/copic-marker-72-pc-set-a/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/winsor-newton-cotman-watercolour-paint-set-46-pc/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/prismacolor-premier-soft-core-coloured-pencils-150-coloured-pencils/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/faber-castell-9000-art-set-pencil-pack-of-6/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/strathmore-400-series-toned-tan/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
